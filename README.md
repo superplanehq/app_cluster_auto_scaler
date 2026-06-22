@@ -1,6 +1,6 @@
 # Cluster Autoscaler
 
-[![Launch in SuperPlane](http://superplane.com/badges/launch-in-superplane.svg)](https://app.superplane.com/install?repo=github.com/superplanehq/app_cluster-auto-scaler-hetzner-grafana-slack)
+[![Launch in SuperPlane](https://superplane.com/badges/launch-in-superplane.svg)](https://app.superplane.com/install?repo=github.com/superplanehq/app_cluster-auto-scaler-hetzner-grafana-slack)
 
 Autoscale a Hetzner Cloud worker fleet from SuperPlane. The canvas reacts to Grafana CPU alerts, provisions and bootstraps new worker nodes, records active nodes in memory, and periodically scales down quiet clusters.
 

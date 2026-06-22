@@ -3,7 +3,7 @@ apiVersion: v1
 kind: Canvas
 metadata:
   name: Cluster Autoscaler
-  description: ''
+  description: Autoscale a Hetzner Cloud worker fleet from Grafana CPU alerts with Slack notifications
 spec:
   nodes:
     - component: grafana.onAlertFiring
